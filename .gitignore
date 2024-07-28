@@ -1,0 +1,12 @@
+# Ignore all files by default
+*
+
+# Do not ignore directories, so we can re-include specific files
+!*/
+
+# Include .cpp and .md files
+!*.cpp
+!*.md
+
+# Do not ignore the .gitignore file itself
+!.gitignore
