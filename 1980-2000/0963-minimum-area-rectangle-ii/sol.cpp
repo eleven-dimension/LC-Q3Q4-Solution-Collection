@@ -60,7 +60,7 @@ public:
                             {points[j][0], points[j][1]},
                             {points[k][0], points[k][1]}
                         );
-                        if (points_set.find({x4, y4}) != points_set.end()) {
+                        if (points_set.contains({x4, y4})) {
                             auto len1 = dis({points[i][0], points[i][1]}, {points[j][0], points[j][1]});
                             auto len2 = dis({points[j][0], points[j][1]}, {points[k][0], points[k][1]});
                             ans = min(ans, len1 * len2);
