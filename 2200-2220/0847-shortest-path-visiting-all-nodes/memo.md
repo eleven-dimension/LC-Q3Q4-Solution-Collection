@@ -5,5 +5,5 @@ first thought: bitmask dp, but difficult to decide the order
 bitmask bfs: ez!  
 solved after 10-min consideration  
 
-bitmask dp: floyd + bitmask dp  
+bitmask dp: floyd preprocessing  
 enumerate the last newly-visited node
