@@ -4,9 +4,10 @@
 # Do not ignore directories, so we can re-include specific files
 !*/
 
-# Include .cpp and .md files
+# Include cpp, md, png and py files
 !*.cpp
 !*.md
+!*.py
 !*.png
 
 # Do not ignore the .gitignore file itself
