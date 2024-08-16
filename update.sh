@@ -11,7 +11,7 @@ if git diff --quiet; then
     exit 0
 fi
 
-git add .
+git add ./stats/ README.md
 
 git commit -m "Update \`problems_needed_revisit.txt\` and progress in \`README.md\`"
 
