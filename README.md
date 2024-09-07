@@ -2,4 +2,4 @@ After a year-long hiatus, I returned to the LeetCode weekly contests. Although m
 
 Therefore, I decided to work on problems with a difficulty rating above 1900 (a year ago, my ELO was around 1950, but now with more participants and a decline in my performance, the 1900 level is more appropriate). This collection includes my solutions, compiled for easy review, along with brief notes on my experience solving these problems. If I find the time and come across interesting problems, I might also add detailed explanations. I hope to one day fulfill my long-standing desire to earn the Guardian medal.
 
-Progress: 25 / 576
+Progress: 25 / 590
