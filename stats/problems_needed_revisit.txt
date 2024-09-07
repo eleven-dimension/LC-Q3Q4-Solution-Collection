@@ -1,4 +1,6 @@
 1483-kth-ancestor-of-a-tree-node
+3171-find-subarray-with-bitwise-or-closest-to-k
+2503-maximum-number-of-points-from-grid-queries
 0749-contain-virus
 2940-find-building-where-alice-and-bob-can-meet
 1803-count-pairs-with-xor-in-a-range
