@@ -7,5 +7,5 @@ immediately thought of the solution: BFS
 `auto& [x, y] = q.top()` `q.pop()` RE  
 large constant TLE  
 
-other ideas include Dijkstra and priority queue
+other ideas include Dijkstra and priority queue  
 worth trying
